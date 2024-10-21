@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] There is no moment when you are not
+
 # Header sticks as a fish
 
 ###### Leg of fishes are equally smager godt
